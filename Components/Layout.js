@@ -70,6 +70,7 @@ export default function Layout({ children }) {
   return (
     <ThemeProvider theme={currentTheme}>
       <ParentBox>
+        
         <CssBaseline />
         <AppBar position="static">
             <Toolbar>
