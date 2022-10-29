@@ -65,8 +65,6 @@ export default function Layout({ children }) {
         }
     }
 
-
-
   return (
     <ThemeProvider theme={currentTheme}>
       <ParentBox>
