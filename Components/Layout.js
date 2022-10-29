@@ -88,7 +88,7 @@ export default function Layout({ children }) {
                   textDecoration: "none",
                 }}
               >
-                LOGO
+                LOGO 
               </Typography>
               <MaterialUISwitch onChange={onThemeChange} checked={themeSelected === 'dark'}/>
             </Toolbar>
